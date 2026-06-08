@@ -1,0 +1,71 @@
+# 🌐 Portfólio — Eduardo Gabriel
+
+Portfólio pessoal desenvolvido com **HTML**, **CSS** e **JavaScript puro**, apresentando meus projetos, habilidades técnicas e formas de contato.
+
+---
+
+## 📸 Preview
+
+> *Adicione um screenshot do portfólio aqui após o deploy*
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5** — Estrutura semântica
+- **CSS3** — Estilização com variáveis, animações e layout responsivo
+- **JavaScript** — Animações de scroll com IntersectionObserver
+- **Google Fonts** — Syne + DM Sans
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+portfolio/
+├── index.html        # Estrutura da página
+├── style.css         # Estilos e paleta de cores
+├── Foto_perfil.jpeg  # Foto de perfil
+└── README.md         # Este arquivo
+```
+
+---
+
+## 🗂️ Seções
+
+- **Início** — Apresentação com nome, cargo e links rápidos
+- **Sobre Mim** — Trajetória e cards de habilidades
+- **Projetos** — AD Manager, NeoBotTI e Projetos Front-End
+- **Core Skills** — Linguagens, ferramentas e objetivos
+- **Rodapé** — Redes sociais e contato
+
+---
+
+## 💻 Como Visualizar Localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/Eduardo-Dev-0/portfolio.git
+
+# Acesse a pasta
+cd portfolio
+
+# Abra o index.html no navegador
+# (basta dar dois cliques no arquivo ou usar Live Server no VS Code)
+```
+
+---
+
+## 📫 Contato
+
+| Canal | Link |
+|-------|------|
+| LinkedIn | [eduardo-gabriel-meneses](https://www.linkedin.com/in/eduardo-gabriel-meneses-9752b8384) |
+| GitHub | [Eduardo-Dev-0](https://github.com/Eduardo-Dev-0) |
+| E-mail | eduardogabriel00442@gmail.com |
+
+---
+
+<p align="center">
+  Desenvolvido por <strong>Eduardo Gabriel</strong> · 2026
+</p>
